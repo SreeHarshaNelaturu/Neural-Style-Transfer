@@ -12,7 +12,7 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
 
 ### References 
 <ol>
-  <li> https://github.com/Aparnaakk/Neural_style_transfer </li>
+  <li> Based on implementation by - https://github.com/Aparnaakk/Neural_style_transfer </li>
   <li> Artistic Style Transfer with Convolutional Neural Network- https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd </li> 
   <li> A Neural Algorithm of Artistic Style - https://arxiv.org/abs/1508.06576 </li>
   <li>A Literature Review of Neural Style Transfer https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_NeuralStyleTransfer.pdf </li>
@@ -54,9 +54,9 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
 
   
 ##### Trained using :
-**CPU** : AMD Ryzen 2700X
-**GPU :** Titan X
-**Memory :** 16 GB
-**CUDA Version** : 9.2
-**cudNN Version** : 7.1.2
-**Tensorflow-GPU version** : 1.12.0
+**CPU** : AMD Ryzen 2700X\
+**GPU :** Titan X\
+**Memory :** 16 GB\
+**CUDA Version** : 9.2\
+**cudNN Version** : 7.1.2\
+**Tensorflow-GPU version** : 1.12.0\
