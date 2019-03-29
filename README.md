@@ -40,7 +40,7 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
   <li> L-BFGS provides the best performance but since not directly implemented in the system, Adam is preferred. </li>
   <li> Fast Style Transfer, a significantly faster variant, can be trained on a single style, parameterizing the entire network, and this allows for significantly faster inference, by orders of magnitude, though it takes longer to train a-priori. </li>
   <li> VGG based architectures like VGG-19 and VGG-16 are more suitable, because ot does not downsample as aggressively as GoogLeNet, and the features are not as spread apart in ResNets due to larger depth and tend to be mixed up, hence, DenseNets would work better than ResNets but worse than VGG, which is shallower and more coherent feature wise.
-  <li> Adam Optimizer might face gray region issues, on digital painting work, which can be mitigated by tuning its hyperparameters, increasing epsilon (numerical stability) of the optimizer. </li>
+  <li> Adam Optimizer might face gray region issues, on digital painting work, which can be mitigated by tuning its hyperparameters specifically tuning the epsilon (numerical stability) of the optimizer. </li>
   </ol>
   
   
