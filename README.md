@@ -59,4 +59,4 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
 **Memory :** 16 GB\
 **CUDA Version** : 9.2\
 **cudNN Version** : 7.1.2\
-**Tensorflow-GPU version** : 1.12.0\
+**Tensorflow-GPU version** : 1.12.0
