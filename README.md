@@ -53,7 +53,7 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
   ![alt text](style_transferred_image.jpg "Style image")
 
   
-##### Trained using :
+### Trained using :
 **CPU** : AMD Ryzen 2700X\
 **GPU :** Titan X\
 **Memory :** 16 GB\
