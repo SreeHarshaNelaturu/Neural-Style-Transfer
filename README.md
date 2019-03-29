@@ -3,7 +3,7 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
 
 ### Non-Standard Packages and Dependencies :
 <ol>
-  <li> [Tensorflow (GPU)](https://www.tensorflow.org/install (1.12 with CUDA 9.2) </li>
+  <li> Tensorflow GPU (1.12 ; CUDA 9.2)- (https://www.tensorflow.org/install </li>
   <li> SciPy - https://pypi.org/project/scipy/ </li>
   <li> NumPy - https://pypi.org/project/numpy/ </li>
   <li> Pillow - https://pypi.org/project/Pillow/ </li>
@@ -15,7 +15,7 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
   <li> https://github.com/Aparnaakk/Neural_style_transfer </li>
   <li> Artistic Style Transfer with Convolutional Neural Network- https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd </li> 
   <li> A Neural Algorithm of Artistic Style - https://arxiv.org/abs/1508.06576 </li>
-  <li>A Literature Review of Neural Style Transfer -https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_NeuralStyleTransfer.pdf </li>
+  <li>A Literature Review of Neural Style Transfer https://www.cs.princeton.edu/courses/archive/spring18/cos598B/public/projects/LiteratureReview/COS598B_spr2018_NeuralStyleTransfer.pdf </li>
   
 ## Summary
 
@@ -53,6 +53,10 @@ Tensorflow Implementation of Neural Artistic Style Transfer using VGG-19.
   ![alt text](style_transferred_image.jpg "Style image")
 
   
-  
-  
-  
+##### Trained using :
+**CPU** : AMD Ryzen 2700X
+**GPU :** Titan X
+**Memory :** 16 GB
+**CUDA Version** : 9.2
+**cudNN Version** : 7.1.2
+**Tensorflow-GPU version** : 1.12.0
